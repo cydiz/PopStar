@@ -1,0 +1,111 @@
+<Solution>
+  <PropertyGroup Name="miguPopstar" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="image">
+          <Folder Name="Common">
+            <Image Name="background_layer0.png" />
+            <Image Name="bg_button1.png" />
+            <Image Name="lucky_star.png" />
+            <Image Name="shop.png" />
+          </Folder>
+          <Folder Name="MainGameScene">
+            <Image Name="act_lottery_point.png" />
+            <Image Name="act_lottery_point_ok.png" />
+            <Image Name="bk_image_2.png" />
+            <Image Name="block_blue.png" />
+            <Image Name="block_green.png" />
+            <Image Name="block_purple.png" />
+            <Image Name="block_red.png" />
+            <Image Name="block_select.png" />
+            <Image Name="block_yellow.png" />
+            <Image Name="hammer.png" />
+            <Image Name="item_color.png" />
+            <Image Name="item_shuffle.png" />
+            <Image Name="option_button.png" />
+            <Image Name="option_sfx.png" />
+            <Image Name="option_title.png" />
+            <Image Name="title_image.png" />
+          </Folder>
+          <Folder Name="MainMenuScene">
+            <Project Name="bg_light.csd" Type="Node" />
+            <Image Name="bottom_1.png" />
+            <Image Name="bottom_3.png" />
+            <Image Name="bottom_4.png" />
+            <Image Name="bottom_5.png" />
+            <Image Name="icon_iphone.png" />
+            <Image Name="item_libao.png" />
+            <Image Name="light_blue.png" />
+            <Image Name="light_green.png" />
+            <Image Name="light_pink.png" />
+            <Image Name="light_red.png" />
+            <Image Name="light_yellow.png" />
+            <Image Name="menu_shop.png" />
+            <Image Name="menu_start.png" />
+            <Image Name="menu_tone.png" />
+            <Image Name="title_popstar.png" />
+          </Folder>
+          <Folder Name="SettingDialog">
+            <Image Name="quit_button.png" />
+            <Image Name="text_about.png" />
+            <Image Name="text_clear_mode.png" />
+            <Image Name="text_lingqu.png" />
+            <Image Name="text_xiaotishi_yellow.png" />
+          </Folder>
+          <Folder Name="ShopScene">
+            <Image Name="bg_shopitem.png" />
+            <Image Name="btn_buy.png" />
+            <Image Name="color_back.png" />
+            <Image Name="icon_hot.png" />
+            <Image Name="icon_value.png" />
+            <Image Name="money.png" />
+            <Image Name="money_10.png" />
+            <Image Name="money_15.png" />
+            <Image Name="money_2.png" />
+            <Image Name="money_20.png" />
+            <Image Name="money_30.png" />
+            <Image Name="money_4.png" />
+            <Image Name="money_6.png" />
+            <Image Name="off_bk.png" />
+            <Image Name="off_zhe.png" />
+            <Image Name="off3.png" />
+            <Image Name="off5.png" />
+            <Image Name="off6.png" />
+            <Image Name="off7.png" />
+            <Image Name="off8.png" />
+            <Image Name="off9.png" />
+            <Project Name="ShopItem.csd" Type="Node" />
+          </Folder>
+          <Folder Name="SplashScene">
+            <Image Name="zplay_logo.png" />
+          </Folder>
+        </Folder>
+        <Folder Name="layer">
+          <Project Name="SettingLayer.csd" Type="Layer" />
+        </Folder>
+        <Folder Name="scene">
+          <Project Name="MainGameScene.csd" Type="Scene" />
+          <Project Name="MainMenuScene.csd" Type="Scene" />
+          <Project Name="ShopScene.csd" Type="Scene" />
+          <Project Name="SplashScene.csd" Type="Scene" />
+        </Folder>
+        <Folder Name="sounds">
+          <Audio Name="applause.mp3" />
+          <Audio Name="button_start.mp3" />
+          <Audio Name="cheers.mp3" />
+          <Audio Name="fireworks_01.mp3" />
+          <Audio Name="fireworks_02.mp3" />
+          <Audio Name="fireworks_03.mp3" />
+          <Audio Name="gameover.mp3" />
+          <Audio Name="get_star_prop.mp3" />
+          <Audio Name="landing.mp3" />
+          <Audio Name="level_up.mp3" />
+          <Audio Name="logo.mp3" />
+          <Audio Name="pop_star.mp3" />
+          <Audio Name="select.mp3" />
+        </Folder>
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
