@@ -1,0 +1,7 @@
+<resources>
+    <style name="ann_dialogFull" parent="@android:style/Theme.Translucent.NoTitleBar.Fullscreen">
+       <item name="android:windowIsTranslucent">true</item>
+       <item name="android:windowNoTitle">true</item>
+       <item name="android:backgroundDimEnabled">true</item>
+    </style>
+</resources>

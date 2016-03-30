@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="stars.pvr.ccz" type="pvrccz" width="256" height="256" pixelformat="RGBA_4444" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:6dd44ca8003102c7fb203c08656dc5a6$ -->
+    <textureregion id="0" src="star_0.png" x="56" y="164" width="52" height="52" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="52" srcheight="52"/>
+    <textureregion id="1" src="star_1.png" x="56" y="110" width="52" height="52" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="52" srcheight="52"/>
+    <textureregion id="2" src="star_2.png" x="56" y="56" width="52" height="52" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="52" srcheight="52"/>
+    <textureregion id="3" src="star_3.png" x="164" y="2" width="52" height="52" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="52" srcheight="52"/>
+    <textureregion id="4" src="star_4.png" x="110" y="2" width="52" height="52" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="52" srcheight="52"/>
+    <textureregion id="5" src="star_5.png" x="56" y="2" width="52" height="52" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="52" srcheight="52"/>
+    <textureregion id="6" src="star_6.png" x="2" y="164" width="52" height="52" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="52" srcheight="52"/>
+    <textureregion id="7" src="star_7.png" x="2" y="110" width="52" height="52" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="52" srcheight="52"/>
+    <textureregion id="8" src="star_8.png" x="2" y="56" width="52" height="52" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="52" srcheight="52"/>
+    <textureregion id="9" src="star_9.png" x="2" y="2" width="52" height="52" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="52" srcheight="52"/>
+</texture>

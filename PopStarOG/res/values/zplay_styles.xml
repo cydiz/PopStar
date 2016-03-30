@@ -1,0 +1,31 @@
+<resources>
+
+    <style name="zplayDialogFull" parent="@android:style/Theme.Translucent.NoTitleBar.Fullscreen">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:backgroundDimAmount">0.5</item>
+    </style>
+
+    <style name="zplayDialogWindow" parent="@android:style/Theme.Dialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:backgroundDimAmount">0.5</item>
+    </style>
+
+
+    <style name="zplayDialogAnimScale" mce_bogus="1" parent="android:Animation">
+        <item name="android:windowEnterAnimation">@anim/zplay_dialog_scale_enter</item>
+        <item name="android:windowExitAnimation">@anim/zplay_dialog_scale_exit</item>
+    </style>
+
+</resources>

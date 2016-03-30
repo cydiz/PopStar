@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<color name="zplay_ad_black">#000000</color>
+	<color name="zplay_ad_white">#ffffff</color>
+	<color name="zplay_ad_test">#cc6600</color>
+</resources>

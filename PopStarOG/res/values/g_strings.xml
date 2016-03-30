@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- Class name of game entry -->
+    <string name="g_class_name">cn.cmgame.sdk.example.BillingDemo</string>
+    
+    <string name="init_date">2016-1-20</string>
+</resources>

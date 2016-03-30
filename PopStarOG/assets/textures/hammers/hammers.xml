@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="hammers.pvr.ccz" type="pvrccz" width="1024" height="1024" pixelformat="RGBA_4444" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://texturepacker.com -->
+    <!-- $TexturePacker:SmartUpdate:84206268ffe03fc1d9bc9705d43e1eae$ -->
+    <textureregion id="0" src="hammer_1.png" x="672" y="518" width="333" height="256" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="333" srcheight="256"/>
+    <textureregion id="1" src="hammer_10.png" x="672" y="518" width="333" height="256" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="333" srcheight="256"/>
+    <textureregion id="2" src="hammer_2.png" x="337" y="518" width="333" height="256" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="333" srcheight="256"/>
+    <textureregion id="3" src="hammer_3.png" x="672" y="260" width="333" height="256" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="333" srcheight="256"/>
+    <textureregion id="4" src="hammer_4.png" x="337" y="260" width="333" height="256" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="333" srcheight="256"/>
+    <textureregion id="5" src="hammer_5.png" x="2" y="518" width="333" height="256" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="333" srcheight="256"/>
+    <textureregion id="6" src="hammer_6.png" x="2" y="260" width="333" height="256" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="333" srcheight="256"/>
+    <textureregion id="7" src="hammer_7.png" x="672" y="2" width="333" height="256" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="333" srcheight="256"/>
+    <textureregion id="8" src="hammer_8.png" x="337" y="2" width="333" height="256" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="333" srcheight="256"/>
+    <textureregion id="9" src="hammer_9.png" x="2" y="2" width="333" height="256" rotated="false" trimmed="false" srcx="0" srcy="0" srcwidth="333" srcheight="256"/>
+</texture>

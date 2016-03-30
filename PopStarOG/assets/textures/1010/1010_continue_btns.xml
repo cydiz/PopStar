@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="1010_continue_btns.pvr.ccz" type="pvrccz" width="128" height="256" pixelformat="RGBA_4444" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://www.codeandweb.com/texturepacker -->
+    <!-- $TexturePacker:SmartUpdate:17e8c2912f738dedff6f03869e8e1259:6e7f8e6d737872d1caa54c6d9e41168a:0391b11dfa972af2f918137f7284f3dc$ -->
+    <textureregion id="0" src="1010_continue_game_disable.png" x="60" y="2" width="199" height="56" rotated="true" trimmed="true" srcx="1" srcy="1" srcwidth="201" srcheight="58"/>
+    <textureregion id="1" src="1010_continue_game_enable.png" x="2" y="2" width="199" height="56" rotated="true" trimmed="true" srcx="1" srcy="1" srcwidth="201" srcheight="58"/>
+</texture>

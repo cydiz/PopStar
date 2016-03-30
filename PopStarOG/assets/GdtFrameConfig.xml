@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FrameInfo>
+    <!-- 内框600x500 -->
+    <FrameNameBig>background</FrameNameBig>
+    <MarginLeft>20</MarginLeft>
+    <MarginTop>20</MarginTop>
+    <MarginRight>20</MarginRight>
+    <MarginBottom>20</MarginBottom>
+	<!-- 内框300x250 -->    
+    <FrameNameSmall>background_small</FrameNameSmall>
+    <MarginLeftSmall>20</MarginLeftSmall>
+    <MarginTopSmall>20</MarginTopSmall>
+    <MarginRightSmall>20</MarginRightSmall>
+    <MarginBottomSmall>20</MarginBottomSmall>
+</FrameInfo>

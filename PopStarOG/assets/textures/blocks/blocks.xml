@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="blocks.pvr.ccz" type="pvrccz" width="256" height="512" pixelformat="RGBA_4444" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://www.codeandweb.com/texturepacker -->
+    <!-- $TexturePacker:SmartUpdate:3daac30744d6cf5fb218980a1a835b04:e31edb808d720b037f8e9c4e46782a0a:c1f7c7e502baf8963ef8ad69ec8329a7$ -->
+    <textureregion id="0" src="block_0.png" x="68" y="2" width="62" height="64" rotated="true" trimmed="true" srcx="1" srcy="0" srcwidth="64" srcheight="64"/>
+    <textureregion id="1" src="block_1.png" x="66" y="66" width="62" height="62" rotated="false" trimmed="true" srcx="1" srcy="1" srcwidth="64" srcheight="64"/>
+    <textureregion id="2" src="block_2.png" x="2" y="66" width="62" height="62" rotated="false" trimmed="true" srcx="1" srcy="1" srcwidth="64" srcheight="64"/>
+    <textureregion id="3" src="block_3.png" x="2" y="2" width="62" height="64" rotated="true" trimmed="true" srcx="1" srcy="0" srcwidth="64" srcheight="64"/>
+    <textureregion id="4" src="block_4.png" x="134" y="2" width="62" height="62" rotated="false" trimmed="true" srcx="1" srcy="1" srcwidth="64" srcheight="64"/>
+    <textureregion id="5" src="btn_resume.png" x="130" y="66" width="293" height="52" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="293" srcheight="52"/>
+    <textureregion id="6" src="btn_resume_disable.png" x="198" y="2" width="293" height="52" rotated="true" trimmed="false" srcx="0" srcy="0" srcwidth="293" srcheight="52"/>
+</texture>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<texture version="1" file="1010_pause_audio.pvr.ccz" type="pvrccz" width="256" height="256" pixelformat="RGBA_4444" minfilter="linear" magfilter="linear" wrapt="clamp" wraps="clamp" premultiplyalpha="false">
+    <!-- Created with TexturePacker http://www.codeandweb.com/texturepacker -->
+    <!-- $TexturePacker:SmartUpdate:d23a685ce7b900721698484a7194113a:723f044d16457b82ef941d4b189d5c28:566ee2947014c4c3e374f4b06d3e8673$ -->
+    <textureregion id="0" src="1010_pause_audio_0.png" x="2" y="125" width="212" height="123" rotated="false" trimmed="true" srcx="1" srcy="1" srcwidth="220" srcheight="130"/>
+    <textureregion id="1" src="1010_pause_audio_1.png" x="2" y="2" width="213" height="124" rotated="false" trimmed="true" srcx="1" srcy="1" srcwidth="221" srcheight="131"/>
+</texture>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="zplay_download_failed_tips">下载失败，请检查网络设置之后点击重试</string>
+    <string name="zplay_download_failed_tips_break_point_download">下载失败，点击从断点位置继续下载</string>
+    <string name="zplay_download_install_tips">文件下载成功，点击进行安装</string>
+</resources>

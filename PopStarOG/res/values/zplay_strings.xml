@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="zplay_download_failed_tips">Download Failed. Try again!</string>
+    <string name="zplay_download_failed_tips_break_point_download">Download Failed. Load from break point.</string>
+    <string name="zplay_download_install_tips">Finished. Click to installing.</string>
+
+</resources>

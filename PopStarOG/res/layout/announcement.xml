@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+     
+
+    <ImageView
+        android:id="@+id/announcement_titlebg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:background="@drawable/announcement_bx" />
+    <ImageView
+         android:id="@+id/announcement_title"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_above="@+id/announcement_titlebg"
+         android:layout_alignLeft="@+id/announcement_titlebg"
+         android:layout_alignRight="@+id/announcement_titlebg"
+         android:background="@drawable/title" />
+    
+    <ImageView
+         android:id="@+id/title_name"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_centerHorizontal="true"
+         android:layout_alignTop="@+id/announcement_title"
+         android:layout_alignBottom="@+id/announcement_title"
+         android:background="@drawable/title_name" />
+    <ImageView
+         android:id="@+id/title_bottom"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_below="@+id/announcement_titlebg"
+         android:layout_alignLeft="@+id/announcement_titlebg"
+         android:layout_alignRight="@+id/announcement_titlebg"
+         android:background="@drawable/title_bottom" />
+     <!--  -->
+      <ProgressBar
+        android:id="@+id/announcement_loadingBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true" />
+      
+     <WebView
+         android:id="@+id/announcement_webView"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:scrollbars="none"
+         android:layout_alignTop="@+id/announcement_titlebg"
+         android:layout_alignBottom="@+id/announcement_titlebg"
+         android:layout_alignRight="@+id/announcement_titlebg"
+         android:layout_alignLeft="@+id/announcement_titlebg"
+         android:background="@color/ann_white" />
+     
+     <Button
+         android:id="@+id/announcement_quitBtn"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_alignTop="@+id/title_bottom"
+         android:layout_alignBottom="@+id/title_bottom"
+         android:layout_centerHorizontal="true"
+         android:background="@drawable/announcement_bt" />
+
+</RelativeLayout>
